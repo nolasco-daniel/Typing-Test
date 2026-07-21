@@ -1,4 +1,4 @@
-## N-Grams Typing Challenges
+## N-Grams Typing Challengess
 
 A modern typing test that generates practice text using N-gram language models with difficulty levels. Built with Python and Pygame.
 
