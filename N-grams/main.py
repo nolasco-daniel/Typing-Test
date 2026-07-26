@@ -1,4 +1,4 @@
-from ngrams import Ngrams, print_menu, promptt
+from ngrams import Ngrams, print_menu, prompttt
 from typing_test import run_typing_test_with_ngrams
 
 
